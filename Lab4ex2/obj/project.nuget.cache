@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KjLpQakDRXpEEhHSI8huyd/NHscEhdRdgFBpN++F1BJLmvLc4psX9dKJ7rVN6F05SV0ErwdcqiYIGPJ2Is9qgQ==",
+  "success": true,
+  "projectFilePath": "D:\\C--Lab4ex2\\Lab4ex2\\Lab4ex2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\GR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\GR\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
